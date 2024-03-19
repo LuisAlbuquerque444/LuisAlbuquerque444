@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, Eu sou Luis Albuquerque</h1>
+<h1 align="center">Oi 👋, Eu sou Luis Albuquerque🍀</h1>
 <h3 align="center">Um jovem cientista de dados formado em Estatística.</h3>
 
 - 🔭 Eu atualmente trabalho: **analises estatísticas, modelagem de dados e machine learning.**
