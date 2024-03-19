@@ -1,6 +1,18 @@
 <h1 align="center">Oi 👋, Eu sou Luis Albuquerque</h1>
 <h3 align="center">Um jovem cientista de dados formado em Estatística.</h3>
 
+- 🔭 Eu atualmente trabalho: **analises estatísticas, modelagem de dados e machine learning.**
+
+- 💬 Pergunte me sobre: **curiosidades estatísticas**
+
+- 👯 Eu gostaria de trabalhar: **Machine Learning e Python.**
+
+- 🌱 Eu atualmente venho estudando **Python**
+
+- 📫 Entre em contato comigo: **luisalbuquerque444@gmail.com**
+
+- ⚡ Curiosidades sobre mim: **Basqueteiro e Gamer**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/luis-eduardo-albuquerque-de-pinho-ba8945175/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luis-eduardo-albuquerque-de-pinho-ba8945175/" height="30" width="40" /></a>
